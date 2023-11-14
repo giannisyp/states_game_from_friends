@@ -1,4 +1,4 @@
-# The States game from friends , you always miss one ! :D
+# The States game from friends.
 
 ## A fun little game from tv show friends where you need to find out all the American states, uses turtle library for the GUI.
 
